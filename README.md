@@ -13,7 +13,7 @@ pytest
 
 ## Contenu
 
-- `hello.py` : fonction `greet(name)`.
+- `hello.py` : fonctions `greet(name)` ("Bonjour, <nom> !") et `farewell(name)` ("Au revoir, <nom> !"). Les deux suppriment les espaces autour du nom et lèvent `ValueError` si le nom est vide.
 - `tests/` : tests `pytest`.
 - `.github/workflows/ci.yml` : lint (ruff), analyse de sécurité (bandit) et tests à chaque pull request.
 
