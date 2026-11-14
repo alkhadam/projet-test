@@ -25,3 +25,6 @@ dist/
 # Divers
 .DS_Store
 *.log
+
+# Sortie de la démo cockpit
+site-demo/
