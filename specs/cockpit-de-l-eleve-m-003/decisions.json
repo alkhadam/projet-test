@@ -1,0 +1,181 @@
+{
+  "version": "v1.1",
+  "domaine_sensible": true,
+  "decisions": [
+    {
+      "id": "759b3f8e",
+      "sec": "objectif",
+      "tranche": "P1",
+      "text": "Une plateforme d'accompagnement personalisé pour les enfants , l'idée creer des parcours dediés en analysant les profils des enfants sans proposer de diagnostique , pour produire un site dedié adapaté aux besoin et difficulté de l'enfant , definir les critéres en colaboration avec de vrai ergo et neuropsy et pourquoi pas proposer des analyses reeles par des professionel de santé remunéré a part de l'abonnement de base l'idée et de capitaliser au fur et a musure pour diminuer les frais d'appel a l'ia pour proposez un tarfis le plus bas possible , vigiclance sur les données proposer un max d'anom=nimastion et securoté plus plus pas de BDD central piratable site complet en mode standalone dedié pour le client"
+    },
+    {
+      "id": "56ca950c",
+      "sec": "resultat",
+      "tranche": "P1",
+      "text": "Pour P1, quel résultat observable attends-tu → effet waouh identification rapide de la maniere d'accompagner l'enfant proposez une roadmap aux parents avec jalon claire sans entre dans des diagnostics psy ou aute"
+    },
+    {
+      "id": "8ce11298",
+      "sec": "perimetre",
+      "tranche": "P1",
+      "text": "Quel est le parcours minimal de bout en bout pour P1 ? (étapes clés et sortie) → arrivé avec une demo d'un vrai site dedié pour un enfant jonh doe → arrivé avec une demo d'un vrai site dedié pour un enfant jonh doe"
+    },
+    {
+      "id": "27d396a6",
+      "sec": "resultat",
+      "tranche": "P1",
+      "text": "Pour P1, quel indicateur observable confirmera l'effet waouh ? (ex : temps avant affichage d'un site John Doe, taux de complétion du profil, nombre de parents qui consultent la roadmap) → ok pour la reco"
+    },
+    {
+      "id": "b4974018",
+      "sec": "perimetre",
+      "tranche": "P1",
+      "text": "Quelles étapes concrètes le parent traverse-t-il, de l'arrivée sur la plateforme à la consultation du site dédié John Doe → ok"
+    },
+    {
+      "id": "6de19722",
+      "sec": "transverse",
+      "tranche": null,
+      "text": "Quelle hypothèse, si elle est fausse, rend le premier parcours impossible ? (ex : capacité à produire un site standalone sans base centrale, génération de recommandations non diagnostiques) → ok"
+    },
+    {
+      "id": "20d5f4d6",
+      "sec": "perimetre",
+      "tranche": "P1",
+      "text": "En tant que parent, je veux créer un profil pour mon enfant en renseignant ses besoins et difficultés afin d'obtenir un accompagnement personnalisé."
+    },
+    {
+      "id": "9161a13e",
+      "sec": "perimetre",
+      "tranche": "P1",
+      "text": "En tant que parent, je veux accéder à un site dédié généré automatiquement pour mon enfant afin de disposer d'un outil adapté à ses besoins."
+    },
+    {
+      "id": "35dfb3de",
+      "sec": "perimetre",
+      "tranche": "P1",
+      "text": "En tant que parent, je veux consulter une roadmap avec des jalons clairs afin de savoir comment accompagner mon enfant au quotidien."
+    },
+    {
+      "id": "e4c20164",
+      "sec": "perimetre",
+      "tranche": "P1",
+      "text": "Étape 1 : Arrivée sur la plateforme → le parent remplit le questionnaire profil enfant → Sortie : profil enregistré avec les besoins identifiés."
+    },
+    {
+      "id": "aaa1a997",
+      "sec": "perimetre",
+      "tranche": "P1",
+      "text": "Étape 2 : Validation du profil → génération automatique du site John Doe → Sortie : site dédié accessible et fonctionnel."
+    },
+    {
+      "id": "d25ef2c2",
+      "sec": "perimetre",
+      "tranche": "P1",
+      "text": "Étape 3 : Le parent consulte le site et la roadmap → Sortie : roadmap affichée avec jalons clairs, sans diagnostic."
+    },
+    {
+      "id": "8c6b7f37",
+      "sec": "criteres",
+      "tranche": "P1",
+      "text": "Après validation du profil, le site dédié est disponible en moins de 5 minutes."
+    },
+    {
+      "id": "5d04a7da",
+      "sec": "criteres",
+      "tranche": "P1",
+      "text": "La roadmap affichée contient au moins 3 jalons avec des actions concrètes."
+    },
+    {
+      "id": "00107720",
+      "sec": "criteres",
+      "tranche": "P1",
+      "text": "Les contenus générés (site et roadmap) ne contiennent aucun terme médical ou diagnostic (ex : TDAH, dyslexie, autisme)."
+    },
+    {
+      "id": "6f7b35fa",
+      "sec": "criteres",
+      "tranche": "P1",
+      "text": "Le parent peut remplir le questionnaire profil en moins de 10 minutes, avec un maximum de 15 questions. → pour l'effet waouh il faut une collecte minium d'information , copie d'une copie d'un controle ,ca ca va devenir un point sensible"
+    },
+    {
+      "id": "2fb1c69d",
+      "sec": "resultat",
+      "tranche": "P1",
+      "text": "Moment de vérité : l'étape où le parent voit le site généré pour son enfant et consulte la roadmap (effet waouh)."
+    },
+    {
+      "id": "1c09d720",
+      "sec": "utilisateurs",
+      "tranche": "P1",
+      "text": "EN V1 les parent et enfant uniquement"
+    },
+    {
+      "id": "30db99af",
+      "sec": "exclusions",
+      "tranche": "P1",
+      "text": "pas de diagnostic medical"
+    },
+    {
+      "id": "9fbb1a3c",
+      "sec": "contraintes",
+      "tranche": "P1",
+      "text": "maitrise des couts d'api IA"
+    },
+    {
+      "id": "e4a84469",
+      "sec": "objectif",
+      "tranche": "P1",
+      "text": "Prproposer une customisation du site a l'nenfant clouerr logo ambiance en DAY 2 → l'idée est qu'une fois que les parents valident lorsque l'enfant prend possession on lui prpose des themes un logo un style un accompagnateur etc"
+    },
+    {
+      "id": "6f997497",
+      "sec": "transverse",
+      "tranche": "P1",
+      "text": "Hypothèse : générer un site standalone sans base centrale est techniquement faisable et maîtrisable en coût. Risque : si faux, P1 tombe. Test : prototyper une génération minimale et mesurer temps/coût."
+    },
+    {
+      "id": "c5ff5871",
+      "sec": "transverse",
+      "tranche": "P1",
+      "text": "Hypothèse : les parents acceptent de remplir un questionnaire sur les difficultés sans attendre un diagnostic. Risque : si faux, pas de profil. Test : tester avec l'entourage."
+    },
+    {
+      "id": "db4eda78",
+      "sec": "transverse",
+      "tranche": null,
+      "text": "Quels professionnels (ergothérapeute, neuropsychologue) seront impliqués pour valider les critères de personnalisation et la non-diagnosticité des contenus générés → En P1 filtre de terme qui ne doivent jamais etre produite vers les parents ou l'enfants DYSxxx TDAH , etc"
+    },
+    {
+      "id": "97de4583",
+      "sec": "transverse",
+      "tranche": null,
+      "text": "Sur quelle base de connaissances (référentiels, guides, données sourcées) les recommandations et jalons de la roadmap seront-ils générés → On va pour la P1 creer un persona eleve dedié a un des difficulté precise pour tester le modele"
+    },
+    {
+      "id": "c965c2e6",
+      "sec": "transverse",
+      "tranche": null,
+      "text": "Quelles mesures précises garantissent l'anonymisation complète et l'absence de base centrale (hébergement, traitement des données, consentement parental pour mineurs) → en P1 pas de données medical"
+    },
+    {
+      "id": "1b64f839",
+      "sec": "transverse",
+      "tranche": null,
+      "text": "Le questionnaire profil enfant collecte-t-il des données de santé (difficultés, besoins spécifiques) ? Si oui, cela contredit « en P1 pas de données médicales » et impose des obligations légales (consentement, minimisation, sécurité renforcée). → Non pas de données de santé , en P1 sinon c'est qu'on c'est mal compris , Mauvaise note en math copie des 3 derniers controles pour post mortem par exemple"
+    },
+    {
+      "id": "d39ecaf4",
+      "sec": "transverse",
+      "tranche": null,
+      "text": "Le filtre de termes interdits (DYS, TDAH, etc.) suffit-il à garantir l'absence de contenu à caractère diagnostique ou de recommandations inappropriées dans le site et la roadmap → LA p1 ne sera pas ouverte au public mais testé par la famille"
+    },
+    {
+      "id": "d1ae6976",
+      "sec": "transverse",
+      "tranche": null,
+      "text": "Quel est le budget maximal acceptable de coût API IA par génération de site, pour tester la viabilité économique de P1 → ok avec la reco"
+    }
+  ],
+  "emplacements": []
+}
