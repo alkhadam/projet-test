@@ -1,0 +1,7 @@
+{
+  "questions": [
+    {"id": "A_DEFINIR_QUESTION_1", "label": "A_DEFINIR_QUESTION_1", "type": "text"},
+    {"id": "A_DEFINIR_QUESTION_2", "label": "A_DEFINIR_QUESTION_2", "type": "text"},
+    {"id": "A_DEFINIR_QUESTION_3", "label": "A_DEFINIR_QUESTION_3", "type": "text"}
+  ]
+}

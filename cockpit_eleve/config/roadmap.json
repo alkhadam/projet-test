@@ -1,0 +1,7 @@
+{
+  "milestones": [
+    {"id": "A_DEFINIR_MILESTONE_1", "title": "A_DEFINIR_MILESTONE_1", "actions": ["A_DEFINIR_ACTION_1"]},
+    {"id": "A_DEFINIR_MILESTONE_2", "title": "A_DEFINIR_MILESTONE_2", "actions": ["A_DEFINIR_ACTION_2"]},
+    {"id": "A_DEFINIR_MILESTONE_3", "title": "A_DEFINIR_MILESTONE_3", "actions": ["A_DEFINIR_ACTION_3"]}
+  ]
+}
